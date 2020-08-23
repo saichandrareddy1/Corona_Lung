@@ -15,9 +15,14 @@ Input for the model with set of classes with **CSV file** (after running image t
 
 ![Predicted images](https://github.com/saichandrareddy1/Corona_Lung/blob/master/Images/predicted.png)
 
+
 ### Accuracy for the Model
 
-we are passed with 0.967 and sensitivity 1.00 and specificity 0.944
+we are passed with 
+
+* **Accuracy 0.967**
+* **sensitivity 1.00**
+* **specificity 0.944**
 
 ![alt text](https://github.com/saichandrareddy1/Corona_Lung/blob/master/Images/accu.png)
 
